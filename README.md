@@ -19,4 +19,4 @@ Clone this project and run the the following commands in the root folder of the 
 
 `npm run dev`  or `npm run build` once
 
-Also remember create .env file and copy the contents of .env.example into it (to be able to connect to the DB)
+Also create .env file and copy the contents of .env.example into it (to be able to connect to the DB)
