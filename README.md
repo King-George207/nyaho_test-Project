@@ -15,7 +15,7 @@ Clone this project and run the the following commands in the root folder of the 
 
 `composer install` to install the laravel dependencies
 
-`npm install` (this will help istall vite which is used for the asset bundling)
+`npm install` (this will help istall vite which is used for the frontend asset bundling)
 
 `npm run dev`  or `npm run build` once
 
